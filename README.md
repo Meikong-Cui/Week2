@@ -44,6 +44,9 @@ pip install -r requirements.txt
 ## Contributors
 
 Please record below who participated in this week's lab practice submissions:
-- NAME (brief description of the role)
-- NAME (brief description of the role)
-- ...
+- Everyone Contributed Equally
+  - Oliver Billich
+  - Yuxin Cui
+  - Rani Kumari
+  - Cheng Man Li
+  - Siyuan Peng
